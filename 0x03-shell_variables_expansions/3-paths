@@ -1,2 +1,2 @@
 #!/bin/bash
-find . $PART -type d | wc -l
+find $PART | wc -l
